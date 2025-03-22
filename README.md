@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hola 👋  soy Ricardo / ig:Ricky_kilmister ✨ </h1> 
 
-<!--
-**RCKCode/RCKCODE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="500">
+<br><br>
+<p align="left">
+<a href="www.linkedin.com/in/
+ricardo-rodríguez-garcía-orejas-295510231
+" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href = "mailto:rikigibson199@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  </p>
+<br>
+<h2>Sobre mi 😎</h2>
+<!--Intro start-->
 
-Here are some ideas to get you started:
+<p align="left">
+🎓 PROYECTISTA, ESPECIALISTA EN ENERGIAS RENOVABLES, Y APRENDIENDO DESARROLLO WEB.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Adentrándome de lleno en el mundo de la programación de la mano de 4GeeksAcademy.🤜🤛
+
+📫 Contacto: **rikigibson199@gmail.com**
+<!--Intro end-->
+  </p>
+<br>
+
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,css,html,js,bootstrap,github,vscode,flask,node,react=12" />
+  </a>
+</p>
+<br>
+<!-------------------------->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<br><br>
