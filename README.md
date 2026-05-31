@@ -13,7 +13,7 @@ ricardo-rodríguez-garcía-orejas-295510231
 <!--Intro start-->
 
 <p align="left">
-🎓 PROYECTISTA, ESPECIALISTA EN ENERGIAS RENOVABLES, Y APRENDIENDO DESARROLLO WEB.
+🎓 PROYECTISTA, ESPECIALISTA EN ENERGIAS RENOVABLES Y ESTOY APRENDIENDO DESARROLLO WEB.
 
 💻 Adentrándome de lleno en el mundo de la programación de la mano de 4GeeksAcademy.🤜🤛
 
